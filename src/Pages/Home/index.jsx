@@ -247,7 +247,7 @@ const Home = () => {
               </p>
             </div>
 
-            <p className="font-bold text-[20px] lg:text-[25px]">- Only $200*</p>
+            <p className="font-bold text-[20px] lg:text-[25px]">- Only ₹200*</p>
           </div>
 
           {
